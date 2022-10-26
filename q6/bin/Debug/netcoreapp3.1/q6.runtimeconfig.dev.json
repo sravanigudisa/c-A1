@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gjssr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gjssr\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.exe
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.deps.json
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.runtimeconfig.json
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.runtimeconfig.dev.json
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\bin\Debug\netcoreapp3.1\q6.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.AssemblyInfoInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.AssemblyInfo.cs
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.csproj.CoreCompileInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\q6\obj\Debug\netcoreapp3.1\q6.genruntimeconfig.cache
