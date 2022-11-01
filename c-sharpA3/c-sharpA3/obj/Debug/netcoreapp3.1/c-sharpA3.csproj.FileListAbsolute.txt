@@ -1,0 +1,14 @@
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.exe
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.deps.json
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.runtimeconfig.json
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.runtimeconfig.dev.json
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\bin\Debug\netcoreapp3.1\c-sharpA3.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.csproj.AssemblyReference.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.AssemblyInfoInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.AssemblyInfo.cs
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.csproj.CoreCompileInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\c-sharpA3\c-sharpA3\obj\Debug\netcoreapp3.1\c-sharpA3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.exe
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.deps.json
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.runtimeconfig.json
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.runtimeconfig.dev.json
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\management\bin\Debug\netcoreapp3.1\management.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.AssemblyInfoInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.AssemblyInfo.cs
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.csproj.CoreCompileInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\management\obj\Debug\netcoreapp3.1\management.genruntimeconfig.cache

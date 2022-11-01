@@ -1,0 +1,13 @@
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.exe
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.deps.json
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.json
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.runtimeconfig.dev.json
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\bin\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfoInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.AssemblyInfo.cs
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.csproj.CoreCompileInputs.cache
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.dll
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.pdb
+C:\Users\gjssr\OneDrive\Desktop\c#\delegate\delegate\obj\Debug\netcoreapp3.1\delegate.genruntimeconfig.cache

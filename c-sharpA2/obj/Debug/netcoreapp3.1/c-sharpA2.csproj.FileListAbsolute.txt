@@ -1,0 +1,14 @@
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.exe
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.deps.json
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.runtimeconfig.json
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.runtimeconfig.dev.json
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.dll
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\bin\Debug\netcoreapp3.1\c-sharpA2.pdb
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.csproj.AssemblyReference.cache
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.AssemblyInfoInputs.cache
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.AssemblyInfo.cs
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.csproj.CoreCompileInputs.cache
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.dll
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.pdb
+C:\Users\gjssr\source\repos\c-sharpA2\c-sharpA2\obj\Debug\netcoreapp3.1\c-sharpA2.genruntimeconfig.cache
